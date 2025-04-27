@@ -1,1 +1,1 @@
-# Optimisation-de-dechet
+#Le projet vise à améliorer la gestion des déchets à Marrakech, une ville touristique confrontée à une augmentation des déchets et à une collecte peu optimisée. En utilisant des modèles mathématiques et des algorithmes d’optimisation, l’objectif est de proposer des solutions efficaces, durables et écologiques pour optimiser les circuits de collecte et le traitement des déchets.
